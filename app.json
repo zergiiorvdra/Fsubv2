@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/zergiiorvdra/Fsub",
+  "repository": "https://github.com/zergiiorvdra/Fsubv2",
   "logo": "https://telegra.ph/file/061bff619ab15a6a2b132.jpg",
   "env": {
     "TG_BOT_TOKEN": {
